@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abd El-Wahhab Sewalam</h1>
 <h3 align="center">A Student at the Faculty of electronic engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/7822ed07-cec4-4dbd-a758-eb2d1cc93c90)">
+<img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/7822ed07-cec4-4dbd-a758-eb2d1cc93c90.gif)">
 
 
 - 🔭 I’m currently working on **E-commerce Website**
