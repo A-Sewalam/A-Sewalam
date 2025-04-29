@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abd El-Wahhab Sewalam</h1>
 <h3 align="center">A Student at the Faculty of electronic engineering</h3>
 
-<img align="right" alt="Coding" src="https://github.com/user-attachments/assets/dd4689f9-11e6-491d-951b-76e24f7d0756" 
+<img align="right" alt="Coding" width = "600" src="https://github.com/user-attachments/assets/dd4689f9-11e6-491d-951b-76e24f7d0756" 
      style="border-radius: 15px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); margin: 10px; " 
      onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 
