@@ -5,7 +5,7 @@
 <div align="center" style="padding: 20px;">
   <img 
     alt="Coding" 
-    width="450" 
+    width="350" 
     src="https://github.com/user-attachments/assets/dd4689f9-11e6-491d-951b-76e24f7d0756" 
     style="border-radius: 15px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;"
     onmouseover="this.style.transform='scale(1.02)'" 
