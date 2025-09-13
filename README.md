@@ -12,7 +12,7 @@
     onmouseout="this.style.transform='scale(1)'">
 </div>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **understanding compilers**
 
 - 🌱 I’m currently learning **.Net**
 
