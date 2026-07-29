@@ -1,5 +1,5 @@
 <h1 align="center"> 👋, I'm Abd El-Wahhab Sewalam</h1>
-<h3 align="center">A Student at the Faculty of electronic engineering</h3>
+<h3 align="center">.NET Developer | B.Eng in CS</h3>
 
 <!-- Image on a separate line with custom styling -->
 <div align="center" style="padding: 20px;">
@@ -11,10 +11,6 @@
     onmouseover="this.style.transform='scale(1.02)'" 
     onmouseout="this.style.transform='scale(1)'">
 </div>
-
-- 🔭 I’m currently working on **understanding web APIs**
-
-- 🌱 I’m currently learning **.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
